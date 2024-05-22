@@ -10,6 +10,11 @@
 - 경도, 위도 및 날짜를 입력하여 해당 위치의 Landsat 사진을 조회
 - API 응답으로 받은 이미지를 화면에 표시
 
+<div style="text-align: center;">
+  <img src="public/service_img.png" alt="Service Image" style="width: 50%;"/>
+</div>
+
+
 ### 설치 및 실행 방법
 
 1. **저장소 클론**
